@@ -1,6 +1,6 @@
 # britaney-group-a
 *Project Title: Forget-Me-Not*
------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##1 – Overview
 >The purpose of this application is to give the user a single placeholder that holds and tracks all of their warranties, accounts with recurring payments, and similar subscriptions. The user will be able to upload documents and keep them organized so that nothing falls through the cracks. The application will notify the user before the end date or renewal date of their various subscriptions.
 
