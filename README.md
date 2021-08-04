@@ -45,7 +45,7 @@ iii.Mortgage
 ## 4 – What You’ll Have to Learn
 
 >We’ll have to learn more about authentication. We’ll also have to learn more about how to collaborate with each other throughout the course of this project, because we didn’t have the opportunity to collaborate during the independent track of this project. We’ll also have to learn how to use the API to allow the user to sign in with Google/Facebook.
->We'll also be using test-driven development, which is writing tests for our code before writing the code itself. We need to work on this as we don't have prior experienc doing this in Spring.
+>We'll also be using test-driven development, which is writing tests for our code before writing the code itself. We need to work on this as we don't have prior experience doing this in Spring.
 
 ## 5 – Project Tracker
 >On Trello.
